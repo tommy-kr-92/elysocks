@@ -1,2 +1,1 @@
-# elysocks
-elysock shoppingmall
+# elysocks_shopping_mall
